@@ -1,0 +1,17 @@
+[
+  {
+      "username": "hello",
+      "password" : "world",
+      "userType" : 2
+  },
+  {
+    "username": "hello2",
+    "password" : "world2",
+    "userType" : 1
+  },
+  {
+    "username": "hello3",
+    "password" : "world3",
+    "userType" : 0
+  }
+]
